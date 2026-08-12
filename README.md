@@ -42,7 +42,6 @@ focus: Full Stack Development
 currently:
   - 🔭 Building full-stack web applications with modern JS frameworks
   - 🤝 Open to Full Stack / Frontend developer roles & collaborations
-  - 💬 Ask me about React, Node.js, MongoDB & REST APIs
   - ⚡ Fun fact: I enjoy turning messy problems into clean, working code
 ```
 
